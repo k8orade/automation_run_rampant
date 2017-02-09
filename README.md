@@ -8,7 +8,7 @@ With the rise of micro services and DevOps culture, Ruby developers have suddenl
 ### Swiss Army Knife
 Combines multiple individual functions behind a single simple interface, to provide a kind of one-stop-shop for the development or delivery process.
 
-Have a look at Kubernetes for an example.
+Have a look at [Kubernetes](https://kubernetes.io/) for an example.
 
 #### Benefits
 - Enables developers to perform their task as quickly as possible, without having to make too many decisions that might slow them down.
@@ -23,7 +23,7 @@ Have a look at Kubernetes for an example.
 ### Screwdriver
 This is a tool that focuses on solving just a single problem, so it’s very small in scope.
 
-Have a look at Capistrano for an example.
+Have a look at [Capistrano](http://capistranorb.com/#) for an example.
 
 #### Benefits
 - Encourages innovation by enabling teams to take control of their own technical decisions so that they can move fast and experiment with new languages, tools or frameworks.
